@@ -189,7 +189,7 @@ public class Cafetera {
             this.setVaso(50);
             this.setAgua(5000);
             this.setCafe(1000);
-            System.out.println("Haz rellenado todos los componentes de la cafetera al maximo");
+            System.out.println("Has rellenado todos los componentes de la cafetera al maximo");
             System.out.println("A continuacion se muestran las cantidades actuales");
             this.mostrarCantidades();
         } else if (respon == 50) {
